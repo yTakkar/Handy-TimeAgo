@@ -1,6 +1,6 @@
 {
   "name": "handy-timeago",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A very simple, handy & useful TimeAgo API which can be used very easily!!",
   "main": "index.js",
   "scripts": {

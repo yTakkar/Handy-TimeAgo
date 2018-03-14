@@ -1,6 +1,6 @@
 # Handy-TimeAgo
 
-A very simple, handy & useful TimeAgo API which can be used very easily!!
+Returns Time in ago format!! 🕗🕗🕗!!
 
 
 # Usage

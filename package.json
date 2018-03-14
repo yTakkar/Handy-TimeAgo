@@ -1,10 +1,12 @@
 {
   "name": "handy-timeago",
   "version": "1.0.1",
-  "description": "A very simple, handy & useful TimeAgo API which can be used very easily!!",
+  "description": "Returns Time in ago format!!",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest",
+    "test:watch": "jest --watchAll",
+    "test:coverage": "jest --coverage"
   },
   "repository": {
     "type": "git",
@@ -21,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/yTakkar/Handy-TimeAgo/issues"
   },
-  "homepage": "https://github.com/yTakkar/Handy-TimeAgo#readme"
+  "homepage": "https://github.com/yTakkar/Handy-TimeAgo#readme",
+  "devDependencies": {
+    "jest": "^22.4.2"
+  }
 }
